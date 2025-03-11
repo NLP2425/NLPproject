@@ -5,6 +5,8 @@ The primary goal is to gather a diverse and representative set of sentences that
 The dataset consists of authentic, naturally occurring sentences extracted from various online Croatian  movie review sources.
 
 # Team Members:
+This project is conducted by a team of first-year graduate students from the Master's program in Information and Communication Sciences, specializing in Informatics:
+
 Ivan Carević, 
 Ema Grahovac, 
 Nikolina Pastorčić, 
@@ -12,4 +14,3 @@ Ana Baletić,
 Marina Biloš, 
 Josipa Bebić
 
-This project is conducted by a team of first-year graduate students from the Master's program in Information and Communication Sciences, specializing in Informatics.
