@@ -15,3 +15,5 @@ Ana Baletić,
 Marina Biloš, 
 Josipa Bebić
 
+# Test set:
+https://github.com/NLP2425/NLPproject/blob/main/Corpus/test-2.csv 
