@@ -1,0 +1,4 @@
+| #      | method           | algorithm          | skup   | Test 1                                                  | Test 2                                                  | Test 3                                                  |
+|--------|------------------|---------------------|--------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|
+| 1.a.i | Machine Learning | Logistic Regression | TRAIN | Precision=0.398, Recall=0.376, F1=0.364, Accuracy=0.426 | Precision=0.506, Recall=0.523, F1=0.501, Accuracy=0.561 | Precision=0.457, Recall=0.504, F1=0.424, Accuracy=0.528 |
+| 1.a.ii | Machine Learning | Random Forest | TRAIN | Precision=0.362, Recall=0.330, F1=0.299, Accuracy=0.320 | Precision=0.468, Recall=0.465, F1=0.452, Accuracy=0.555 | Precision=0.430, Recall=0.404, F1=0.394, Accuracy=0.593 |
