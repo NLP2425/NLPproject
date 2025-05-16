@@ -17,14 +17,3 @@ Josipa Bebić
 
 # Test set:
 https://github.com/NLP2425/NLPproject/blob/main/Corpus/test-2.csv 
-
-Izvještaj klasifikacije:
-               precision    recall  f1-score   support
-
-           0       0.61      0.13      0.21       216
-           1       0.61      0.98      0.75       431
-           2       0.00      0.00      0.00        94
-
-    accuracy                           0.61       741
-   macro avg       0.41      0.37      0.32       741
-weighted avg       0.53      0.61      0.50       741
