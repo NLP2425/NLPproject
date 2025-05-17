@@ -1,6 +1,0 @@
-| #     | method           | algorithm            | train   | Test 1                                    | Test 2                                    | Test 3                                    |
-|-------|------------------|----------------------|---------|--------------------------------------------|--------------------------------------------|--------------------------------------------|
-| 2.a.i | Machine learning | SVM | train-2 | Precision=0.602, Recall=0.597, F1=0.599, Accuracy=0.597 | Precision=0.581, Recall=0.618, F1=0.589, Accuracy=0.618 | Precision=0.533, Recall=0.470, F1=0.427, Accuracy=0.470 |
-| 2.a.ii | Machine learning | SVM | test-2 | Precision=0.556, Recall=0.585, F1=0.567, Accuracy=0.585 | Precision=0.999, Recall=0.999, F1=0.999, Accuracy=0.999 | Precision=0.505, Recall=0.439, F1=0.375, Accuracy=0.439 |
-| 2.b.i | Machine learning | Logistic Regression | train-2 | Precision=0.609, Recall=0.658, F1=0.616, Accuracy=0.658 | Precision=0.564, Recall=0.610, F1=0.539, Accuracy=0.610 | Precision=0.514, Recall=0.431, F1=0.343, Accuracy=0.431 |
-| 2.b.ii | Machine learning | Logistic Regression | test-2 | Precision=0.529, Recall=0.642, F1=0.548, Accuracy=0.642 | Precision=0.864, Recall=0.830, F1=0.784, Accuracy=0.830 | Precision=0.353, Recall=0.395, F1=0.281, Accuracy=0.395 |
