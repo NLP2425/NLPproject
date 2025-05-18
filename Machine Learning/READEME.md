@@ -29,3 +29,10 @@ In the initial code, we were unable to achieve satisfactory scores, so we made c
 
 Updated code: [https://github.com/NLP2425/NLPproject/blob/main/Machine%20Learning/corrected%20version.ipynb](https://github.com/NLP2425/NLPproject/blob/main/Machine%20Learning/corrected%20version.ipynb)
 
+## New results
+
+| #      | method           | algorithm                | skup          | Test 1                                                  | Test 2                                                  | Test 3                                                  |
+|--------|------------------|--------------------------|--------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|
+| 1.a.i  | Machine learning | Logistic regression      | Train combined | Precision=0.640, Recall=0.614, F1=0.625, Accuracy=0.614 | Precision=0.632, Recall=0.630, F1=0.626, Accuracy=0.630 | Precision=0.717, Recall=0.691, F1=0.686, Accuracy=0.691 |
+| 1.b.i  | Machine learning | SVM RBF kernel           | Train combined | Precision=0.652, Recall=0.632, F1=0.640, Accuracy=0.632 | Precision=0.621, Recall=0.626, F1=0.620, Accuracy=0.626 | Precision=0.764, Recall=0.741, F1=0.735, Accuracy=0.741 |
+
