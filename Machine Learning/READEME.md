@@ -20,8 +20,12 @@
 ## New code 
 In the initial code, we were unable to achieve satisfactory scores, so we made certain modifications. The following changes were introduced in the updated code:
 
+* We combined all three training sets into a single dataset to evaluate whether this would lead to improved results.
+* We used the SVM algorithm for this experiment.
+
 * `max_iter=5000` in **Logistic Regression**
 * `kernel='rbf'` in **SVM**
 * `TfidfVectorizer(max_features=5000, ngram_range=(1, 3))`
 
 Updated code: [https://github.com/NLP2425/NLPproject/blob/main/Machine%20Learning/corrected%20version.ipynb](https://github.com/NLP2425/NLPproject/blob/main/Machine%20Learning/corrected%20version.ipynb)
+
