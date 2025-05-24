@@ -1,0 +1,6 @@
+| #      | method           | algorithm           | train   | Test 1                                           | Test 2                                           | Test 3                                           |
+|--------|------------------|---------------------|---------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
+| 1.a.i  | Machine learning | SVM                 | train2  | Precision=0.579, Recall=0.608, F1=0.590, Accuracy=0.608 | Precision=0.583, Recall=0.618, F1=0.574, Accuracy=0.618 | Precision=0.526, Recall=0.435, F1=0.366, Accuracy=0.435 |
+| 1.a.i  | Machine learning | SVM                 | TRAIN   | Precision=0.653, Recall=0.640, F1=0.646, Accuracy=0.640 | Precision=0.617, Recall=0.628, F1=0.619, Accuracy=0.628 | Precision=0.766, Recall=0.739, F1=0.732, Accuracy=0.739 |
+| 1.b.i  | Machine learning | XGB                 | train2  | Precision=0.585, Recall=0.649, F1=0.591, Accuracy=0.649 | Precision=0.548, Recall=0.602, F1=0.527, Accuracy=0.602 | Precision=0.544, Recall=0.387, F1=0.290, Accuracy=0.387 |
+| 1.b.i  | Machine learning | XGB                 | TRAIN   | Precision=0.602, Recall=0.652, F1=0.603, Accuracy=0.652 | Precision=0.623, Recall=0.632, F1=0.564, Accuracy=0.632 | Precision=0.677, Recall=0.482, F1=0.428, Accuracy=0.482 |
