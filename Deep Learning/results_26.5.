@@ -1,0 +1,73 @@
+| ## LSTM                                                           |
+|-------------------------------------------------------------------|
+|                                                                   |
+|                                                                   |
+| - Precision: 0.3074                                               |
+| - Recall: 0.3315                                                  |
+| - F1: 0.2529                                                      |
+| - Accuracy: 0.5722                                                |
+| - Confusion matrix: [[1, 215, 0], [6, 422, 3], [4, 89, 1]]        |
+|                                                                   |
+|                                                                   |
+| Full classification report:                                       |
+| precision    recall  f1-score   support                           |
+|                                                                   |
+|                                                                   |
+| positive     0.0909    0.0046    0.0088       216                 |
+| neutral     0.5813    0.9791    0.7295       431                  |
+| negative     0.2500    0.0106    0.0204        94                 |
+|                                                                   |
+|                                                                   |
+| accuracy                         0.5722       741                 |
+| macro avg     0.3074    0.3315    0.2529       741                |
+| weighted avg     0.3963    0.5722    0.4295       741             |
+|                                                                   |
+|                                                                   |
+|                                                                   |
+| ## GRU                                                            |
+|                                                                   |
+|                                                                   |
+| - Precision: 0.4949                                               |
+| - Recall: 0.4670                                                  |
+| - F1: 0.4722                                                      |
+| - Accuracy: 0.6019                                                |
+| - Confusion matrix: [[101, 102, 13], [82, 329, 20], [34, 44, 16]] |
+|                                                                   |
+|                                                                   |
+| Full classification report:                                       |
+| precision    recall  f1-score   support                           |
+|                                                                   |
+|                                                                   |
+| positive     0.4654    0.4676    0.4665       216                 |
+| neutral     0.6926    0.7633    0.7263       431                  |
+| negative     0.3265    0.1702    0.2238        94                 |
+|                                                                   |
+|                                                                   |
+| accuracy                         0.6019       741                 |
+| macro avg     0.4949    0.4670    0.4722       741                |
+| weighted avg     0.5800    0.6019    0.5868       741             |
+|                                                                   |
+|                                                                   |
+|                                                                   |
+| ## CNN                                                            |
+|                                                                   |
+|                                                                   |
+| - Precision: 0.5403                                               |
+| - Recall: 0.4579                                                  |
+| - F1: 0.4535                                                      |
+| - Accuracy: 0.6505                                                |
+| - Confusion matrix: [[89, 122, 5], [39, 387, 5], [30, 58, 6]]     |
+|                                                                   |
+|                                                                   |
+| Full classification report:                                       |
+| precision    recall  f1-score   support                           |
+|                                                                   |
+|                                                                   |
+| positive     0.5633    0.4120    0.4759       216                 |
+| neutral     0.6825    0.8979    0.7756       431                  |
+| negative     0.3750    0.0638    0.1091        94                 |
+|                                                                   |
+|                                                                   |
+| accuracy                         0.6505       741                 |
+| macro avg     0.5403    0.4579    0.4535       741                |
+| weighted avg     0.6088    0.6505    0.6037       741             |
